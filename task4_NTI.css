@@ -1,22 +1,22 @@
 body{
 	background-color: black;
-	font-family: sans-serif;
+	font-family: "font2";
 
 }
-/*
-@font-family{
+
+@font-face{
 	font-family: "font1";
 	src:url("bhofila-webfont.woff2") format("woff2"),
 		url("bhofila-webfont.woff") format("woff"),
 		url("Bhofila.ttf") format("truetype");
 }
-@font-family{
+@font-face{
 	font-family: "font2";
 	src:url("sourcesanspro-regular-webfont.woff2") format("woff2"),
 		url("sourcesanspro-regular-webfont.woff") format("woff"),
 		url("SourceSansPro-Regular.ttf") format("truetype");
 }
-*/
+
 .main{
 	width: 70%;
 	margin: auto;
