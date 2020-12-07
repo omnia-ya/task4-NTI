@@ -21,8 +21,8 @@ body{
 	width: 70%;
 	margin: auto;
 }
-.header-img{
-	
+.header-img img{
+	width:100%;
 }
 .header{
 	position: relative;
