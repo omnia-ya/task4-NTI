@@ -1,9 +1,9 @@
 body{
 	background-color: black;
-	font-family: "font2";
+	font-family: sans-serif;
 
 }
-
+/*
 @font-face{
 	font-family: "font1";
 	src:url("bhofila-webfont.woff2") format("woff2"),
@@ -16,7 +16,7 @@ body{
 		url("sourcesanspro-regular-webfont.woff") format("woff"),
 		url("SourceSansPro-Regular.ttf") format("truetype");
 }
-
+*/
 .main{
 	width: 70%;
 	margin: auto;
